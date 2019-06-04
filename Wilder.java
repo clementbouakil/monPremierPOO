@@ -16,7 +16,7 @@ public class Wilder {
     }
 
     // Ci-dessous, un setter (permettant la modification d'un attribut)
-    public void getFirstName(String firstName) {
+    public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
 
@@ -26,7 +26,7 @@ public class Wilder {
     }
 
     // setter
-    public void isAware(boolean aware) {
+    public void setAware(boolean aware) {
         this.aware = aware;
     }
 
